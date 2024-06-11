@@ -1,0 +1,7 @@
+spawnLocations:
+  - "world,194,64,140"
+  - "world,204,66,136"
+cropPoints:
+  - "CARROT,3"
+  - "POTATO,3"
+event-time: 10 #in minutes

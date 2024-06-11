@@ -1,0 +1,9 @@
+main: com.kzics.me.MultiEvents
+name: MultiEvents
+version: 1.0
+author: Kzics
+commands:
+  events:
+    description: List all events
+    usage: /events
+    aliases: [event, me]

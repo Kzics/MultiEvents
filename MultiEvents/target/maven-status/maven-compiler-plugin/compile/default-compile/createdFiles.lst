@@ -1,0 +1,16 @@
+com\kzics\me\listeners\PlayerListeners.class
+com\kzics\me\commands\events\sub\StopCommand.class
+com\kzics\me\manager\EventsManager.class
+com\kzics\me\commands\ICommand.class
+com\kzics\me\utils\DefaultFontInfo.class
+com\kzics\me\rules\impl\FarmerEvent.class
+com\kzics\me\commands\events\sub\JoinCommand.class
+com\kzics\me\utils\ColorsUtil.class
+com\kzics\me\MultiEvents.class
+com\kzics\me\rules\GameEvent.class
+com\kzics\me\commands\events\EventsCommand.class
+com\kzics\me\manager\ManagerHandler.class
+com\kzics\me\commands\CommandBase.class
+com\kzics\me\commands\events\sub\StartCommand.class
+com\kzics\me\tasks\EventsTask.class
+com\kzics\me\utils\ConfigurationManager.class

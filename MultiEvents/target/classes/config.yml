@@ -1,0 +1,25 @@
+waiting-time: 60 #in seconds
+actionbar-refresh: 1 #every seconds = 1
+top3-command: ""
+top2-command: ""
+top1-command: ""
+
+
+messages:
+  no-active-events: "&a&lNo active events"
+  already-active-event: "&c&lAn event is already active"
+  event-not-found: "&c&lEvent not found"
+  started-event: "&a&lYou Started %event% event"
+  event-start: "&a&lEvent %event% has started"
+  event-message: "&a&lYou have %time% to join the event, use /event join"
+  joined-event: "&a&lYou joined %event% event"
+  top-header: "&a&lTop 3:"
+  top-footer: "Your position #%position%"
+  end-countdown-5: "&a&lEvent ends in 5 seconds"
+  end-countdown-15: "&a&lEvent ends in 15 seconds"
+  end-countdown-30: "&a&lEvent ends in 30 seconds"
+  actionbar-message: "&aPoints: %points% (%position%) Time left: %time%"
+  actionbar-message-added: "&aPoints: %points%(+%added_points%) (%position%) Time left: %time%"
+  farmer:
+    earned-point: "&a&lYou earned %points% points"
+    display-points: "&a&lPoints:%points%" #action bar message
